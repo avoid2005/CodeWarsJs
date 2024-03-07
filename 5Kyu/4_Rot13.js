@@ -28,5 +28,3 @@ function rot13(message) {
   });
   return rot.join("");
 }
-
-console.log(rot13("dNn"));
